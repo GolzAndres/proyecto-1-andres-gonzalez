@@ -1,0 +1,180 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    border: none;
+}
+
+body {
+    background-color: whitesmoke;
+    overflow: hidden;   
+}
+
+header a {
+    cursor: pointer;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+
+header u {
+    cursor: pointer;
+    text-decoration: none;
+    /* position: absolute; */
+    margin-left: 0.5pc;
+    /* margin-top: 40px; */
+}
+
+header i {
+    cursor: pointer;
+    margin-top: 40px;
+    margin-left: 74pc;
+}
+
+.madre{
+    gap: 183px;
+    display: flex;
+    margin-top: 20px;
+}
+
+.hijo{
+    margin-top: 30px;
+    height: 250px;
+    width: 300px;
+    border: 1px solid ;
+    border-radius: 5px;
+    background-color: #585934 ;
+    border: none;
+}
+
+.hijo h1{
+    margin-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-left: 50px;
+}
+
+.hijo .blanco{
+    margin-left: 45px;
+    margin-top:40px ;
+}
+
+.blanco-1 {
+    margin-top: -18px;
+    margin-left: 150px;
+}
+
+.blanco-2 {
+    margin-top: 40px;
+    margin-left: 45px;
+}
+
+.blanco-3 {
+    margin-top: -18px;
+    margin-left: 130px;
+}
+
+.hijo p {
+    color: white;
+}
+
+.hijo button{
+    margin-left: 100px;
+    margin-left: 70px;
+    margin-top: 30px;
+    cursor: pointer;
+    width: 150px;
+    height: 40px;
+    border: 1px solid #fff;
+    border-radius: 5px;background-color: #585934;
+    color: white    ;
+}
+
+table {
+    margin-top: 30px;
+    margin-left: 100px;
+    width: 40%;
+    border-spacing: 0;
+    height: 100px;
+}
+table td{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100px;
+    text-align: center;
+    padding: 10px;
+}
+
+
+table th{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 40px;
+    width: 50px;
+    justify-content: center;
+    background-color: #585934;
+    justify-content: space-between;
+    
+}
+
+button {
+    border: 1px solid gray;
+    width: 15px;
+    height: 20px;
+    cursor: pointer;
+}
+
+.magen{
+    display: flex;
+    justify-content: center;
+    margin-top: 1pc;
+    width: 50px;
+    height: 50px;
+    border: 1px solid #585934;
+    background-color: #585934;
+}
+
+
+
+.medio{
+    display: flex;
+    gap: 10px;
+    margin-top: 60px;
+    margin-left: 100px;
+}
+
+.ti {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 200px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 80px;
+    margin-top: -60px;
+}
+
+.abajo {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 200px;
+    color: gray;
+    margin-top: 10px;
+    margin-left: 80px;
+}
+
+footer b{
+    margin-top:5pc;
+    margin-left: 50px;
+    
+}
+
+
+footer i {
+    margin-left: 10px;
+} 
+
+footer s{
+    /* position: absolute; */
+    text-decoration: none;
+    /* margin-top: 230px; */
+}
+
+footer{
+    margin-top: 20px;
+}
